@@ -1,0 +1,25 @@
+.card-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 5px;
+  width: 310px;
+  list-style-type: none;
+  padding: 10px;
+}
+.card-img {
+  width: 300px;
+  height: 100px;
+  margin-bottom: 2px;
+}
+p {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+h1 {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
